@@ -1,7 +1,7 @@
 ---
 layout: default # Or a 'post' layout if you create one
-title: "The Art of Patient Capital"
-description: "An examination of how time arbitrage creates investment opportunities in markets increasingly focused on short-term results. Published in Financial Analysts Journal, 2024."
+title: "Attractive- Unattractive Investment: Gold Mines"
+description: "Why boring stuff works"
 ---
 
 # The Art of Patient Capital
