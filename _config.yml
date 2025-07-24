@@ -1,0 +1,9 @@
+# _config.yml
+
+title: EUBOULEUS CAPITAL
+description: Investment Management & Financial Analysis
+
+# This tells Jekyll to look for a custom folder named `_projects`
+collections:
+  projects:
+    output: false # We won't create separate pages for each project
